@@ -86,3 +86,6 @@ int main(){
     insinhvien(sv1);
 }
 //sonchudaoday//
+// taoday//
+//vandungdayroi//
+//trumdatbac//
